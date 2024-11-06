@@ -1,0 +1,15 @@
+e2a2c5033a71f989197a3f0b0056a073 *DESCRIPTION
+97e73cf81add325c2e750eab00e164fc *NAMESPACE
+03926d8f2bde0b4f6adb335eb5a23d73 *R/PJFM_wrapper.R
+5a6077231254d1c029286a625801e077 *R/RcppExports.R
+bf358ea656dd15b59b328ef4116687b5 *data/PJFMdata.rda
+6929388fca33b51e31680ff57adc0402 *man/PJFM_fit.Rd
+8a8ee74b5096a483ac770a7088ea117c *man/PJFM_prediction.Rd
+e58813ab900e35cc0283905291c53a13 *man/PJFM_summary.Rd
+52defd45ea59252591702800681fe7ac *man/RecurData.Rd
+71f4fbb33e6146ad036e231836396e9e *man/SurvData.Rd
+cbbd58b2b4552b33dfd04db08b7fe2be *man/control_list.Rd
+2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
+2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars.win
+3b990b10f9efb43d259d1a02a92a82d9 *src/PJFMcovBD.cpp
+1d15d342455733c12bfdae3bad92f83f *src/RcppExports.cpp

@@ -1,0 +1,9 @@
+useDynLib(PJFM)
+export("PJFM_fit","PJFM_prediction","PJFM_summary")
+importFrom(Rcpp, evalCpp)
+importFrom(survival, survreg, Surv)
+importFrom(statmod,  gauss.quad)
+importFrom(Matrix,  sparseMatrix, bdiag)
+importFrom(stats, cor)
+importFrom(pracma, pinv, hessian)
+
